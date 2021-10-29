@@ -1,6 +1,6 @@
 Analysing Online Habits during Quarantine
 
-I used data from my 'watch later' playlist on YouTube to prioritizevideos to watch, 
+I used data from my 'watch later' playlist on YouTube to prioritize videos to watch, 
 along with which category of videos I have liked since Nationwide lockdown by the use of Topic Modeling approach.
 
 
